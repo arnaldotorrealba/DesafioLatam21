@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    background-color: rgb(254, 75, 75);
+}
+
+.send-btn {
+    background-color: rgb(254, 75, 75) !important;
+    border: rgb(254, 75, 75);
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.home-img {
+    width: 200px;
+}
